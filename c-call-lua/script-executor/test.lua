@@ -1,4 +1,4 @@
-package.cpath="/home/watermelon/sandbox/lua-call-c/?.so;;"
+package.cpath="../../lua-call-c/?.so;;"
 
 w = require "libwatermelon"
 

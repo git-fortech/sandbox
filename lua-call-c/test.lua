@@ -1,4 +1,4 @@
-package.cpath="/home/watermelon/sandbox/lua-call-c/?.so;;"
+package.cpath="./?.so;;"
 w = require "libwatermelon"
 
 local list=w.watermelondir("/home")
